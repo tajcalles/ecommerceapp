@@ -1,4 +1,5 @@
 class AccountsController < ApplicationController
+  # CREATED BY DEVISE
   def index
   end
 
@@ -8,6 +9,6 @@ class AccountsController < ApplicationController
   def new
   end
 
-  def edit
+  def edi
   end
 end
